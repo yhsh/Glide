@@ -10,7 +10,12 @@ import android.widget.ImageView;
 import android.widget.ListView;
 
 import com.bumptech.glide.Glide;
-
+/**
+ * 创  建  者：下一页5 于2016/12/13日 11:11创建.
+ * 作者联系QQ：13343401268
+ * 唯一 域 名：yhsh.wap.ai
+ * 百度 搜 索：下一页5
+ */
 public class MainActivity extends Activity {
 
     private String[] ivUrl;
